@@ -10,7 +10,7 @@ from database import init_db, update_user_profile, get_user, add_water, add_calo
 from utils import (
     get_calories_goal,
     get_water_goal,
-    get_weather_asynch,
+    get_weather_async,
     get_calories_async,
     water_progress_template,
     calories_progress_template,
